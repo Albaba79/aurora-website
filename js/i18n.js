@@ -159,7 +159,7 @@ const TRANSLATIONS = {
   "contact.whatsapp.title": {en:"WhatsApp", ar:"واتساب"},
   "contact.email.title": {en:"Email", ar:"البريد الإلكتروني"},
   "contact.hours.title": {en:"Order hours", ar:"ساعات الطلب"},
-  "contact.hours.value": {en:"Sunday – Thursday, 9:00 AM – 5:00 PM", ar:"الأحد – الخميس، 9:00 صباحًا – 5:00 مساءً"},
+  "contact.hours.value": {en:"Saturday  – Thursday, 9:00 AM – 5:00 PM", ar:"السبت – الخميس، 9:00 صباحًا – 5:00 مساءً"},
   "contact.note": {en:"Aurora is a wholesale supplier — we don't have a retail storefront, but we're happy to arrange a tasting visit for businesses considering an order.", ar:"أورورا مورّد بالجملة — ليس لدينا منفذ بيع بالتجزئة، لكن يسعدنا ترتيب زيارة تذوق للشركات التي تفكر بتقديم طلب."},
   "contact.quickmsg.eyebrow": {en:"Quick message", ar:"رسالة سريعة"},
   "contact.quickmsg.h2": {en:"Or send us a note directly.", ar:"أو أرسل لنا رسالة مباشرة."},
